@@ -1,0 +1,14 @@
+# 文本数据挖掘与 Python 应用：示例代码依赖
+numpy
+scikit-learn
+matplotlib
+jieba
+wordcloud
+Pillow
+gensim
+snownlp
+textrank4zh
+# 以下仅 notebooks/ 中的 Notebook 使用
+pomegranate
+pyquery
+requests
